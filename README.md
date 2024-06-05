@@ -11,6 +11,9 @@ Cryto React TypeScript es una configuración inicial para desarrollar aplicacion
   - **SWC**: Alternativa utilizando SWC, conocido por su velocidad y eficiencia.
 - **Soporte para TypeScript**: Total compatibilidad con TypeScript, mejorando la escalabilidad y mantenibilidad del proyecto.
 
-## Estructura de la Aplicación
+## Tecnologías Utilizadas
 
-La estructura básica del proyecto es la siguiente:
+- **React**: Biblioteca principal para construir la interfaz de usuario.
+- **Vite**: Herramienta de construcción rápida y ligera.
+- **TypeScript**: Mejora la escalabilidad y mantenibilidad del código.
+- **ESLint**: Herramienta de análisis estático para identificar problemas en el código.
